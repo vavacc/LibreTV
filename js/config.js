@@ -62,7 +62,7 @@ const API_SITES = {
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意-紫夜',
+        name: '唉如意-紫夜',
     },
     baofeng: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
