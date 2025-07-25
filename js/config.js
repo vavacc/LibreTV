@@ -34,31 +34,36 @@ const API_SITES = {
     },
     dianyangtiantan: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂-紫夜',
+        name: '电影-紫夜',
         detail: 'http://caiji.dyttzyapi.com', 
     },
     tianya: {
         api: 'https://tyyszy.com/api.php/provide/vod',
-        name: '天涯影视-紫夜',
+        name: '天涯-紫夜',
     },
     yingshegc: {
        api: 'https://cj.lziapi.com/api.php/provide/vod',
-       name: '影视工厂-紫夜',
+       name: '影视-紫夜',
     },
      xiaomaomi: {
          api: 'http://zy.xmm.hk/api.php/provide/vod',
-         name: '小猫咪-紫夜',
+         name: '猫咪-紫夜',
          detail: 'http://zy.xmm.hk',
     },
     baiduyu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
-        name: '百度云-紫夜',
+        name: '百度-紫夜',
         detail: 'https://api.apibdzy.com',
+    },
+    zhiyeaz: {
+        api: 'https://360zyzz.com/api.php/provide/vod/at/json',
+        name: '360-暗紫',
+        detail: 'https://360zy.com', 
     },
     zhiye360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360-紫夜',
-        detail: 'https://360zy.com/', 
+        detail: 'https://360zy.com', 
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
