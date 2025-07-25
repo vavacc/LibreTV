@@ -58,9 +58,8 @@ const API_SITES = {
     zhiyeaz: {
         api: 'https://360zyzz.com/api.php/provide/vod',
         name: '360-暗紫',
-        detail: 'https://360zy.com', 
     },
-    zhiye360: {
+    zhiyezy: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360-紫夜',
         detail: 'https://360zy.com', 
