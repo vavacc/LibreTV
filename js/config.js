@@ -212,6 +212,12 @@ const API_SITES = {
         detail: 'https://caiji.kuaichezy.org',
         adult: true
     },
+    feifangaa: {
+        api: 'https://api.ffzyapi.com/api.php/provide/vod',
+        name: '非凡-暗紫',
+        detail: 'http://ffzy.tv',
+        adult: true
+    },
     feifang: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡-紫夜',
