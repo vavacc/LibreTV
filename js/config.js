@@ -218,30 +218,15 @@ const API_SITES = {
         name: '光速-紫夜服务',
         adult: true
     },
-    taopian: {
-        api: 'https://taopianapi.com/cjapi/sda/vod',
-        name: '淘片-紫夜',
-        adult: true
-    },
     kuaiche: {
         api: 'https://caiji.kuaichezy.org/api.php/provide/vod',
         name: '快车-紫夜',
-        adult: true
-    },
-    yinghua: {
-        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花-紫夜',
         adult: true
     },
     qilin: {
         api: 'https://www.qilinzyz.com/api.php/provide/vod',
         name: '麒麟-紫夜',
         detail: 'https://www.qilinzyz.com',
-        adult: true
-    },
-    suoni: {
-        api: 'https://suoniapi.com/api.php/provide/vod',
-        name: '索尼-紫夜',
         adult: true
     },
     testSource: {
