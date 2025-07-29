@@ -180,6 +180,7 @@ const API_SITES = {
     huangseck: {
         api: 'https://hsckzy888.com/api.php/provide/vod',
         name: '凰仓库-紫夜',
+        detail: 'https://hsckzy.vip',
     },
     siwazyw: {
         api: 'https://siwazyw.tv/api.php/provide/vod',
@@ -226,23 +227,6 @@ const API_SITES = {
         name: '快车-紫夜',
         adult: true
     },
-    feifangaa: {
-        api: 'https://api.ffzyapi.com/api.php/provide/vod',
-        name: '非凡-暗紫',
-        detail: 'http://ffzy.tv',
-        adult: true
-    },
-    feifang: {
-        api: 'http://ffzy5.tv/api.php/provide/vod',
-        name: '非凡-紫夜',
-        detail: 'http://ffzy5.tv',
-        adult: true
-    },
-    xiami: {
-        api: 'https://zy.hls.one/api.php/provide/vod',
-        name: '虾米-紫夜',
-        adult: true
-    },
     yinghua: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
         name: '樱花-紫夜',
@@ -254,44 +238,9 @@ const API_SITES = {
         detail: 'https://www.qilinzyz.com',
         adult: true
     },
-    niuniu: {
-        api: 'https://api.niuniuzy.me/api.php/provide/vod',
-        name: '牛牛-紫夜',
-        adult: true
-    },
     suoni: {
         api: 'https://suoniapi.com/api.php/provide/vod',
         name: '索尼-紫夜',
-        adult: true
-    },
-    huohua: {
-        api: 'https://cj.huohua.live/api.php/provide/vod',
-        name: '火花-紫夜',
-        adult: true
-    },
-    fantuan: {
-        api: 'https://www.fantuan.vip/api.php/provide/vod',
-        name: '饭团-紫夜',
-        adult: true
-    },
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七-紫夜',
-        adult: true
-    },
-    hongniu2: {
-        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
-        name: '红牛2-暗紫',
-        adult: true
-    },
-    hongniu3: {
-        api: 'https://www.hongniuzy3.com/api.php/provide/vod',
-        name: '红牛3-紫夜',
-        adult: true
-    },
-    huaweiba: {
-        api: 'https://cjhwba.com/api.php/provide/vod',
-        name: '华为吧-紫夜服务',
         adult: true
     },
     testSource: {
