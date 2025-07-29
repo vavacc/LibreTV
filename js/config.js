@@ -58,6 +58,7 @@ const API_SITES = {
     zhiyeaz: {
         api: 'https://360zyzz.com/api.php/provide/vod',
         name: '360-暗紫',
+        detail: 'https://360zy.com', 
     },
     zhiyezy: {
         api: 'https://360zy.com/api.php/provide/vod',
@@ -66,7 +67,7 @@ const API_SITES = {
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '美空-紫夜',
+        name: '如意-紫夜',
     },
     baofeng: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
